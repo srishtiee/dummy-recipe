@@ -1,0 +1,16 @@
+{
+    "name": "srishtiee/dummy_recipe",
+    "description": "This is a dummy recipe.",
+    "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Random",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "drupal/core": "10.1"
+    },
+}
